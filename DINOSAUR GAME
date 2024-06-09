@@ -1,0 +1,85 @@
+import turtle
+import time
+import random
+
+# Set up the screen
+screen = turtle.Screen()
+screen.setup(width=600, height=400)
+screen.bgcolor("white")
+screen.title("Dinosaur Game")
+screen.tracer(0)
+
+# Dinosaur
+dinosaur = turtle.Turtle()
+dinosaur.shape("triangle")
+dinosaur.color("green")
+dinosaur.penup()
+dinosaur.goto(-200, -40)
+dinosaur.speed(0)
+dinosaur.dx = 0
+dinosaur.dy = 0
+
+# Set gravity
+gravity = -0.8
+
+# Define functions
+def jump():
+    if dinosaur.ycor() == -40:
+        dinosaur.dy = 10
+
+def move():
+    dinosaur.dy += gravity
+    y = dinosaur.ycor()
+    y += dinosaur.dy
+    if y < -40:
+        y = -40
+    dinosaur.sety(y)
+
+def create_obstacle():
+    obstacle = turtle.Turtle()
+    obstacle.shape("square")
+    obstacle.color("red")
+    obstacle.penup()
+    obstacle.goto(300, -40)
+    obstacle.speed(0)
+    obstacle.dx = -2
+    return obstacle
+
+obstacles = []
+score = 0
+
+# Keyboard bindings
+screen.listen()
+screen.onkeypress(jump, "space")
+
+# Main game loop
+while True:
+    # Create obstacles randomly
+    if random.randint(1, 100) == 1:
+        obstacles.append(create_obstacle())
+
+    # Move the obstacles
+    for obstacle in obstacles:
+        obstacle.setx(obstacle.xcor() + obstacle.dx)
+
+        # Check for collision with the dinosaur
+        if obstacle.distance(dinosaur) < 20:
+            print("Game Over!")
+            time.sleep(1)
+            screen.bye()
+
+        # Remove obstacles that have gone off the screen
+        if obstacle.xcor() < -300:
+            obstacles.remove(obstacle)
+            obstacle.hideturtle()
+            del obstacle
+
+    # Move the dinosaur
+    move()
+
+    # Update the score
+    score += 1
+    time.sleep(0.05)
+    screen.update()
+
+screen.mainloop()
