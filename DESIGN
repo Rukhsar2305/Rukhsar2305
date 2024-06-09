@@ -1,0 +1,25 @@
+import turtle as t
+import colorsys
+
+t.bgcolor('black')
+t.speed('fastest')
+
+t.hideturtle()
+t.right(60)
+hue=0.0
+for j in range (150) :
+    color = colorsys.hsv_to_rgb(hue,1,1)
+    t.pencolor(color)
+    hue+= 0.007
+    t.circle(30)
+    if 7 < j < 62 :
+        t.left(5)
+    if 80 < j < 133 :
+        t.right(5)
+    if j < 80 :
+        t.forward(10)
+    else :
+        t.forward(5)
+    
+t.tracer(10)
+t.done()
