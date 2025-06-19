@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Rukhsar 👋</h1>
+<h1 align="center">Hi, I'm Rukhsar 👋</h1>
 
 <p align="center">
 🌐 BCA Cloud Security Student | 💻 Aspiring Full-Stack Developer <br/>
@@ -7,12 +7,23 @@
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 🎓 Pursuing **BCA Cloud Security (2nd Semester)**
-- 🌱 Currently learning **HTML, CSS, JavaScript**, and moving toward **MERN Stack**
-- 🛠️ Exploring **frontend projects**, version control, and real-world dev workflows
-- ✨ Always curious about web dev, tools, and startup culture
+<table>
+  <tr>
+    <td>
+
+- 🎓 Pursuing **BCA Cloud Security (2nd Semester)**  
+- 🌱 Currently learning **HTML, CSS, JavaScript**, and moving toward **MERN Stack**  
+- 🛠️ Exploring **frontend projects**, version control, and real-world dev workflows  
+- ✨ Always curious about web dev, tools, and startup culture  
+
+</td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
