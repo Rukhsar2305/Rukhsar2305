@@ -1,23 +1,17 @@
 <h1 align="center">Hi, I'm Rukhsar 👋</h1>
 
 <p align="center">
-🌐 BCA Cloud Security Student | 💻 Aspiring Full-Stack Developer <br/>
-🚀 Learning MERN Stack @ Sigma 8.0 by Apna College
-</p>
-
----
-
-<p align="center">
   <a href="https://www.linkedin.com/in/rukhsarbano23/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:afsanabegum6430@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Rukhsar2305&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
 ---
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-
 ### 🚀 About Me
+
+<div align="right">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300" />
+</div>
 
 - 🎓 Pursuing **BCA Cloud Security (2nd Semester)**
 - 🌱 Currently learning **HTML, CSS, JavaScript**, and moving toward **MERN Stack**
