@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Rukhsar 👋</h1>
+<h1 align="center">Hi, I'm Rukhsar 👋</h1>
 
 <p align="center">
 🌐 BCA Cloud Security Student | 💻 Aspiring Full-Stack Developer <br/>
@@ -6,6 +6,16 @@
 </p>
 
 ---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rukhsarbano23/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:afsanabegum6430@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Rukhsar2305&style=flat-square&color=blue" alt="Profile Views" />
+</p>
+
+---
+
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 ### 🚀 About Me
 
@@ -47,7 +57,7 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:afsanabegum6430@gmail.com)
 
 ---
-
+> 💬 *“Learning every day, building one step at a time. Let’s grow together!”*
 <!-- Optional Badges (you can update these when you earn them) -->
 <!--
 ### 🏅 Certifications
