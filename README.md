@@ -12,7 +12,6 @@
 - 🎓 Pursuing **BCA Cloud Security (2nd Semester)**
 - 🌱 Currently learning **HTML, CSS, JavaScript**, and moving toward **MERN Stack**
 - 🛠️ Exploring **frontend projects**, version control, and real-world dev workflows
-- 🚀 Building my startup idea as a tech lead at Lockey
 - ✨ Always curious about web dev, tools, and startup culture
 
 ---
