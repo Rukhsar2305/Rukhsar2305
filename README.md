@@ -9,9 +9,9 @@
 
 ### 🚀 About Me
 
-<div align="right">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300" />
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="300" />
+</p>
 
 - 🎓 Pursuing **BCA Cloud Security (2nd Semester)**
 - 🌱 Currently learning **HTML, CSS, JavaScript**, and moving toward **MERN Stack**
