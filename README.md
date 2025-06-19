@@ -10,7 +10,7 @@
 ### 🚀 About Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3lndmxxa2NnYmhyYm04ZGRjaDV2YTVscXg1YmUzdG04MmZpcnd1ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/0D0RgggUMwP2MLqVyE/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300" />
 </p>
 
 - 🎓 Pursuing **BCA Cloud Security (2nd Semester)**
