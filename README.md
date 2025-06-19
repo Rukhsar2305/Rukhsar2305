@@ -1,17 +1,13 @@
-<h1 align="center">Hi, I'm Rukhsar 👋</h1>
+<h1 align="center">Hi there, I'm Rukhsar 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rukhsarbano23/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:afsanabegum6430@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+🌐 BCA Cloud Security Student | 💻 Aspiring Full-Stack Developer <br/>
+🚀 Learning MERN Stack @ Sigma 8.0 by Apna College
 </p>
 
 ---
 
 ### 🚀 About Me
-
-<p align="center">
-  <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="300" />
-</p>
 
 - 🎓 Pursuing **BCA Cloud Security (2nd Semester)**
 - 🌱 Currently learning **HTML, CSS, JavaScript**, and moving toward **MERN Stack**
@@ -51,25 +47,5 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:afsanabegum6430@gmail.com)
 
 ---
+
 > 💬 *“Learning every day, building one step at a time. Let’s grow together!”*
-<!-- Optional Badges (you can update these when you earn them) -->
-<!--
-### 🏅 Certifications
-
-![Postman](https://img.shields.io/badge/Postman%20Student%20Expert-orange?style=flat-square&logo=postman)
--->
-
-<!--
-**Rukhsar2305/Rukhsar2305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
