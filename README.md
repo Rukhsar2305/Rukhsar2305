@@ -13,7 +13,7 @@
   <tr>
     <td>
 
-- 🎓 Pursuing **BCA Cloud Security (2nd Semester)**  
+- 🎓 Pursuing **BCA Cloud Security (3rd Semester)**  
 - 🌱 Currently learning **HTML, CSS, JavaScript**, and moving toward **MERN Stack**  
 - 🛠️ Exploring **frontend projects**, version control, and real-world dev workflows  
 - ✨ Always curious about web dev, tools, and startup culture  
