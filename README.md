@@ -46,6 +46,7 @@
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 > 🧩 Currently developing **full-stack projects** with **Bootstrap + Node.js + Express + MongoDB**
+
 > *Coming soon: React, Tailwind CSS...*
 
 ---
