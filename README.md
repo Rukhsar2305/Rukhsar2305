@@ -17,7 +17,6 @@
 - 💻 MERN Stack Developer in progress  
 - ⚛️ Skilled in **HTML, CSS, JavaScript, React**  
 - 🛠️ Building real-world **full-stack projects**  
-- 🚀 Exploring startup building & scalable web applications  
 - ✨ Passionate about frontend engineering & clean UI  
 
 </td>
