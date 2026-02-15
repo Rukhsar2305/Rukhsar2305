@@ -14,9 +14,11 @@
     <td>
 
 - 🎓 Pursuing **BCA Cloud Security (4th Semester)**  
-- 🌱 Currently learning **HTML, CSS, JavaScript**, and moving toward **MERN Stack**  
-- 🛠️ Exploring **frontend projects**, version control, and real-world dev workflows  
-- ✨ Always curious about web dev, tools, and startup culture  
+- 💻 MERN Stack Developer in progress  
+- ⚛️ Skilled in **HTML, CSS, JavaScript, React**  
+- 🛠️ Building real-world **full-stack projects**  
+- 🚀 Exploring startup building & scalable web applications  
+- ✨ Passionate about frontend engineering & clean UI  
 
 </td>
     <td align="center">
