@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rukhsar 👋</h1>
 
 <p align="center">
-🌐 BCA Cloud Security Student | 💻 Aspiring Full-Stack Developer <br/>
+🌐 BCA Cloud Security Student | 💻 Passionate Full-Stack Developer <br/>
 🚀 Learning MERN Stack @ Sigma 8.0 by Apna College
 </p>
 
